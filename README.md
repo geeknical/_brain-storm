@@ -1,6 +1,6 @@
 # Brain Storm
 
-> 简称 bs，头脑风暴与 sb 只有一点差别
+> 简称 bs，我们与 sb 永远只有一点距离
 
 ## Job
 
@@ -18,7 +18,7 @@
 
 ## Others
 
-- [ ] Upload helper
+- [ ] Upload Image helper
 
   - [ ] TinyPNG
   - [ ] Qiniu
