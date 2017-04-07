@@ -2,40 +2,10 @@
 
 > 简称 bs，我们与 sb 永远只有一点距离
 
-## Job
+- [brain storms](./brain-storm.md)
 
-- [x] [Online resume](https://github.com/ecmadao/hacknical)
-- [ ] Job hunter
+> 脑暴，想法的发酵地。里面的点子会被持续讨论发酵，不过也有可能会永久躺下去无法执行
 
-  - crawl company
-  - recommend max matching company
+- [read list](./read-list.md)
 
-## GitHub
-
-- [ ] Gist enhancer
-- [ ] A teamwork app based on GitHub repos
-- [x] [GitHub analysis in visualization](https://github.com/ecmadao/hacknical)
-
-## Code
-
-- [ ] l18n for human
-- [ ] redis wrapper for human
-
-## Others
-
-- [ ] Upload Image helper
-
-  - TinyPNG
-  - Qiniu
-  - A workflow combine compress image ( by TinyPNG API ) and upload to CDN ( by Qiniu API )
-
-- [ ] 自动化闹钟
-
-  - 树莓派
-  - 起床之后，自动关闭之后的闹钟
-
-- [ ] App 售价与销量
-
-  - 获取App的历史价格和对应销量，分析人们的心理价位
-
-- [ ] 基于甘特图的中长期任务规划与追踪
+> 阅读清单，对已读过的书的简短书评
