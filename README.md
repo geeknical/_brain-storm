@@ -1,6 +1,6 @@
 # Brain Storm
 
-> 简称 bs，我们与 sb 永远只有一点距离
+简称 bs，我们与 sb 或许只有一点距离
 
 - [brain storms](./brain-storm.md)
 
@@ -9,3 +9,4 @@
 - [read list](./read-list.md)
 
 > 阅读清单，对已读过的书的简短书评
+
