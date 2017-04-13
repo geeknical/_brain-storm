@@ -25,6 +25,10 @@
 
 > 通俗的讲解了网络连接的过程，涉及 TCP/UDP/DNS/HTTP(S) 等概念，适合非科班的人入门学习
 
+- HTTP 权威指南
+
+> 较《网络是怎样连接的》而言更加专业，适合进一步深入学习。
+
 ## 程序
 
 ### JavaScript
@@ -32,6 +36,11 @@
 - 学习JavaScript数据结构与算法
 
 > 关键字：链表、散列、二叉树、图、排序，适合通过本书来入门数据结构与算法
+
+- 你不知道的 JavaScript
+- 你不知道的 JavaScript 2
+
+> 第一本主要讲了 JavaScript 中的基本特性，比如原型链、作用域、闭包等等，而第二本则讲解类型、异步、Promise、Generator 等。都是经典之作，可惜汉化版出的比较慢。有兴趣可以去 GitHub 上查看开源的英文[原版](https://github.com/getify/You-Dont-Know-JS/)
 
 ### 综合
 
