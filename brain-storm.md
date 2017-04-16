@@ -15,6 +15,7 @@
 - [ ] Gist enhancer
 - [ ] A teamwork app based on GitHub repos
 - [x] [GitHub analysis in visualization](https://github.com/ecmadao/hacknical)
+- [ ] GitHub star manager & repository search enhance
 
 ## Code
 
