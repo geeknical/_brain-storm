@@ -20,11 +20,15 @@
 ## Code
 
 - [ ] l18n for human
-- [ ] redis wrapper for human
+- ~~redis wrapper for human~~ 轮子已有，不再重造
+  
+  - [node-cache-manager](https://github.com/BryanDonovan/node-cache-manager)
+  - [node-cache-manager-redis](https://github.com/dial-once/node-cache-manager-redis)
+  - [node-lru-cache](https://github.com/isaacs/node-lru-cache)
 
 ## Others
 
-- [ ] ~~Upload Image helper~~ 实际意义 & 产品价值 较低，产出 <<< 投入，pass
+- ~~Upload Image helper~~ 实际意义 & 产品价值 较低，产出 <<< 投入，pass
 
   - TinyPNG
   - Qiniu
