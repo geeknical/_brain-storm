@@ -49,3 +49,7 @@
   - 获取App的历史价格和对应销量，分析人们的心理价位
 
 - [ ] 基于甘特图的中长期任务规划与追踪 -- [issue](https://github.com/geeknical/_brain-storm/issues/3)
+
+## 蛇精病啊
+
+- [ ] 称瓜神器 -- [issue](https://github.com/geeknical/_brain-storm/issues/8)
